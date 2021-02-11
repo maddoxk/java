@@ -1,4 +1,3 @@
-import java.util.*;
 import java.lang.*;
 
 /** Finds Average of all Elements in an Array
