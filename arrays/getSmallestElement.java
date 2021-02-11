@@ -4,7 +4,7 @@ import java.lang.*;
 @param Array Name
 @return Smallest Number
 */
-  public static int searchSmallestElement(int[] x) {
+  public static int getSmallestElement(int[] x) {
 
     int min = x[0];
     for (int i = 1; i < x.length; i++) {
