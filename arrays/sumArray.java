@@ -4,7 +4,7 @@ import java.lang.*;
 @param Array Name
 @return Array Sum
 */
-  public static int SumOfAllElements(int[] x) {
+  public static int sumArray(int[] x) {
 
     int Sum = 0;
 
