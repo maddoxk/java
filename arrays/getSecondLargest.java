@@ -1,4 +1,3 @@
-import java.util.*;
 import java.lang.*;
 
 /** Finds 2nd Largest of all Elements in an Array
